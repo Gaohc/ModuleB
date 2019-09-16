@@ -1,7 +1,7 @@
 {
   "name": "ModuleB",
   "version": "0.1.0",
-  "summary": "A short description of ModuleB.",
+  "summary": "第一个私有库ModuleB",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/gaohongcheng/ModuleB",
   "license": {

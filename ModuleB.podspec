@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ModuleB'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ModuleB.'
+  s.summary          = '第一个私有库ModuleB'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

@@ -13,14 +13,6 @@
 #import "NSObject+YCGRuntime.h"
 #import "NSString+YCGString.h"
 #import "UIColor+YCGColor.h"
-#import "UIFont+YCGFont.h"
-#import "UIImage+YCGCustomCreat.h"
-#import "UIImage+YCGImage.h"
-#import "UIView+YCGHierarchy.h"
-#import "UIView+YCGSwizzleMethod.h"
-#import "UIViewController+YCGDismissKeyboard.h"
-#import "UIViewController+YCGSwizzleMethod.h"
-#import "YCGCategories.h"
 
 FOUNDATION_EXPORT double ModuleBVersionNumber;
 FOUNDATION_EXPORT const unsigned char ModuleBVersionString[];
